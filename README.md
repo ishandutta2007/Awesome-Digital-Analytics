@@ -13,14 +13,14 @@ Popular platforms for product analytics, user behavior tracking, event analysis,
 
 ### Leading Options
 
-| Platform | Description | Pricing / Free Tier Limit |
-|----------|-------------|---------------------------|
-| **[Amplitude](https://amplitude.com)** | Product analytics leader focused on behavioral insights, user journeys, and experimentation. | Free tier: up to 2 million events/month |
-| **[Mixpanel](https://mixpanel.com)** | Event-based analytics with strong user segmentation and real-time capabilities. | Free tier: up to 1 million events/month |
-| **[PostHog](https://posthog.com)** | All-in-one platform with product analytics, session replay, feature flags, and A/B testing (offers open-source core). | Free tier: 1M events/month, 5k session replays |
-| **[Pendo](https://pendo.io)** | Focuses on product experience, in-app guidance, and adoption analytics. | Free tier: up to 500 Monthly Active Users (MAUs) |
-| **[Heap](https://heap.io)** | Automatic event capture with retroactive analysis. | Free tier: up to 10,000 sessions/month |
-| **[Google Analytics (GA4)](https://analytics.google.com)** | Free, widely used web and app analytics with powerful reporting and integration ecosystem. | Standard is completely free. GA360 starts at $50k+/yr |
+| Platform | Description | Pricing / Free Tier Limit | Valuation |
+|----------|-------------|---------------------------|-----------|
+| **[Google Analytics (GA4)](https://analytics.google.com)** | Free, widely used web and app analytics with powerful reporting and integration ecosystem. | Standard is completely free. GA360 starts at $50k+/yr | ~$2 Trillion (Alphabet) |
+| **[Heap](https://heap.io)** | Automatic event capture with retroactive analysis. | Free tier: up to 10,000 sessions/month | ~$5.6 Billion (Contentsquare) |
+| **[Pendo](https://pendo.io)** | Focuses on product experience, in-app guidance, and adoption analytics. | Free tier: up to 500 Monthly Active Users (MAUs) | ~$2.6 Billion |
+| **[Amplitude](https://amplitude.com)** | Product analytics leader focused on behavioral insights, user journeys, and experimentation. | Free tier: up to 2 million events/month | ~$1.5 Billion |
+| **[PostHog](https://posthog.com)** | All-in-one platform with product analytics, session replay, feature flags, and A/B testing (offers open-source core). | Free tier: 1M events/month, 5k session replays | ~$1.4 Billion |
+| **[Mixpanel](https://mixpanel.com)** | Event-based analytics with strong user segmentation and real-time capabilities. | Free tier: up to 1 million events/month | ~$1.05 Billion |
 
 **Other notables**: Snowplow (hybrid), Adobe Analytics, and FullStory.
 
