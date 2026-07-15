@@ -85,6 +85,17 @@ These tools provide full data ownership, no vendor lock-in, and customizable ana
 4. Host on Docker/Kubernetes; integrate with your apps via SDKs.
 5. Ensure GDPR/CCPA compliance with self-hosted data.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Digital-Analytics&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Analytics&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Analytics&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Analytics&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
