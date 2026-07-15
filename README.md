@@ -34,19 +34,19 @@ These tools provide full data ownership, no vendor lock-in, and customizable ana
 
 ### Featured Projects
 
-- **[PostHog](https://posthog.com)** — Open-source product analytics platform with session replay, feature flags, A/B testing, and more. Self-host or use cloud.<grok-card data-id="9ba0d3" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[Umami](https://umami.is)** [![GitHub stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) — Simple, self-hosted website analytics alternative focused on privacy and ease of use.
+
+- **[PostHog](https://posthog.com)** [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) — Open-source product analytics platform with session replay, feature flags, A/B testing, and more. Self-host or use cloud.<grok-card data-id="9ba0d3" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [PostHog/posthog](https://github.com/PostHog/posthog)
   - Best for: Comprehensive, extensible product analytics.
 
-- **[Matomo](https://matomo.org)** (formerly Piwik) — Privacy-focused web analytics platform with full data ownership. Feature-rich alternative to Google Analytics.
-  - Self-hosted option available.
-
-- **[Plausible](https://plausible.io)** — Lightweight, privacy-friendly website analytics. Simple, fast, and open-source.
+- **[Plausible](https://plausible.io)** [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=social&color=white)](https://github.com/plausible/analytics/stargazers) — Lightweight, privacy-friendly website analytics. Simple, fast, and open-source.
   - Self-hosted available.
 
-- **[Umami](https://umami.is)** — Simple, self-hosted website analytics alternative focused on privacy and ease of use.
+- **[Matomo](https://matomo.org)** [![GitHub stars](https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white)](https://github.com/matomo-org/matomo/stargazers) (formerly Piwik) — Privacy-focused web analytics platform with full data ownership. Feature-rich alternative to Google Analytics.
+  - Self-hosted option available.
 
-- **[Snowplow](https://snowplow.io)** — Open-source behavioral data platform for building custom analytics pipelines with granular event tracking.
+- **[Snowplow](https://snowplow.io)** [![GitHub stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers) — Open-source behavioral data platform for building custom analytics pipelines with granular event tracking.
 
 ### Additional Open-Source Tools
 - **OpenTelemetry** + custom dashboards (Prometheus/Grafana) for flexible observability and analytics.
