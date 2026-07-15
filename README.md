@@ -1,4 +1,8 @@
 # Awesome-Digital-Analytics
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Analytics Banner" width="100%" />
+</div>
+
 ## Top Digital Analytics Platforms & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted digital analytics platforms** (like Amplitude, Mixpanel, PostHog, Pendo, Heap, Google Analytics GA4) and their **open-source/self-hosted equivalents**. 
